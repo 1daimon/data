@@ -1,0 +1,9 @@
+matinf_1.0_encrypted filter=lfs diff=lfs merge=lfs -text
+妇产科6-28000.json filter=lfs diff=lfs merge=lfs -text
+新建文本文档.txt filter=lfs diff=lfs merge=lfs -text
+Belle_open_source_0.5M.json filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
+self-instruction filter=lfs diff=lfs merge=lfs -text
+儿科.json filter=lfs diff=lfs merge=lfs -text
+儿科5-14000.csv filter=lfs diff=lfs merge=lfs -text
+妇产科6-28000.csv filter=lfs diff=lfs merge=lfs -text
